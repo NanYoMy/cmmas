@@ -1,2 +1,2 @@
 # cmmas
-the cross-modality MAS method
+the cross-modality MAS project is under constructing! 
