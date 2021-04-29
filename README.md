@@ -1,5 +1,5 @@
 # cmmas
-The cross-modality MAS project is still under constructing! 
+The cross-modality MAS project is still under constructing.
 
 The source code was already uploaded.
 
