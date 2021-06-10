@@ -12,10 +12,12 @@ This is the diagram of the proposed cross-modality MAS framework:
 <img src="./img/framework.png" alt="" width="60%" height="60%" align="bottom" />
 
 This is an example of the output of the registration network:
-![Model output](./img/reg.png "Model output")
+<!-- ![Model output](./img/reg.png "Model output") -->
+<img src="./img/reg.png" alt="" width="60%" height="60%" align="bottom" />
 
 This is an example of the output of the label fusion:
-![Model output](./img/mas.png "Model output")
+<!-- ![Model output](./img/mas.png "Model output")-->
+<img src="./img/mas.png" alt="" width="60%" height="60%" align="bottom" />
 
 ## Overview
 This repository contains two main code:
