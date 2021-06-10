@@ -8,8 +8,8 @@ This framework has been applied to liver and heart segmentation task:
 [CHAOS](https://chaos.grand-challenge.org/) & [MMWHS](http://www.sdspeople.fudan.edu.cn/).
 
 This is the diagram of the proposed cross-modality MAS framework:
-![Framework](./img/framework.png "Framework") 
-<img src="./img/framework.png" alt="" width="500" height="313" align="bottom" />
+<!-- ![Framework](./img/framework.png "Framework") --> 
+<img src="./img/framework.png" alt="" width="60%" height="60%" align="bottom" />
 
 This is an example of the output of the registration network:
 ![Model output](./img/reg.png "Model output")
