@@ -5,7 +5,7 @@ Multi-atlas segmentation (MAS) is a promising framework for medical image segmen
 This repository contains the code for the paper "Cross-Modality Multi-Atlas Segmentation UsingDeep Neural Networks", which proposes multi-atlas segmentation framework based on deep neural network from cross-modality medical images.
 
 This framework has been applied to liver and heart segmentation task:
-[CHAOS](https://chaos.grand-challenge.org/) & [MMWHS](http://www.sdspeople.fudan.edu.cn/).
+[CHAOS](https://chaos.grand-challenge.org/) & [MMWHS](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs17/index.html).
 
 This is the diagram of the proposed cross-modality MAS framework:
 <!-- ![Framework](./img/framework.png "Framework") --> 
