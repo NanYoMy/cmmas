@@ -24,7 +24,7 @@ This repository contains two main code:
 - [cross_modality_registration_network](./proj/learn2attreg.py): Performs the registration of cross-modality medical images.
 - [labelfusion_network](./proj/labelintensityfusionnet.py): Calculates the weight of  registered atlases  for label fusion.
 
-## acknowledgement
+## Acknowledgement
 This project is largely based on the "labreg", "simpleitk", "antspy" repositories.
 
 ## Contact
