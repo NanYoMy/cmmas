@@ -17,7 +17,7 @@ This is an example of the output of the registration network:
 
 This is an example of the output of the label fusion:
 <!-- ![Model output](./img/mas.png "Model output")-->
-<img src="./img/mas.png" alt="" width="60%"  align="middle" />
+<img src="./img/MAS.png" alt="" width="60%"  align="middle" />
 
 ## Overview
 This repository contains two main code:
