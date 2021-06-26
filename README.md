@@ -28,4 +28,4 @@ This repository contains two main code:
 This project is largely based on the "labreg", "simpleitk", "antspy" repositories.
 
 ## Contact
-If you have any problems, create a new Issue, or directly email me at moon_well@live.cn
+If you have any question or issuse, create a new issue, or directly email me at moon_well@live.cn
