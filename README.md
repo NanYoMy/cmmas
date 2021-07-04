@@ -3,6 +3,7 @@ Multi-atlas segmentation (MAS) is a promising framework for medical image segmen
 
 # Conference Version of the Cross-Modality MAS
 The cross-modality MAS method was first published on MICCAI2020, and the source codes are provided at [miccai2020-cross-modality-mas](./miccai2020-cross-modality-mas).
+
 `Ding, Wangbin, et al. "Cross-modality multi-atlas segmentation using deep neural networks." International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2020.`
 
 
