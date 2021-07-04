@@ -4,6 +4,9 @@ Multi-atlas segmentation (MAS) is a promising framework for medical image segmen
 # Cross-Modality Multi-Atlas Segmentation UsingDeep Neural Networks
 This repository contains the code for the paper "Cross-Modality Multi-Atlas Segmentation UsingDeep Neural Networks", which proposes multi-atlas segmentation framework based on deep neural network from cross-modality medical images. The project is still under constructing. At present, we have released the core codes.   
 
+# Conference paper
+the cross-modality MAS is first publish on MICCAI2020, and the source codes are provided at [miccai2020-cross-modality-mas](./proj/miccai2020-cross-modality-mas).
+
 This framework has been applied to liver and heart segmentation task:
 [CHAOS](https://chaos.grand-challenge.org/) & [MMWHS](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs17/index.html).
 
@@ -26,6 +29,7 @@ This repository contains two main code:
 
 ## Acknowledgement
 This project is largely based on the "labreg", "simpleitk", "antspy" repositories.
+## Reference 
 
 ## Contact
 If you have any question or issuse, create a new issue, or directly email me at moon_well@live.cn
