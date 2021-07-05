@@ -35,4 +35,4 @@ This project is largely based on the "labreg", "simpleitk", "antspy" repositorie
 ## Reference 
 
 ## Contact
-If you have any question or issuse, create a new issue, or directly email me at moon_well@live.cn
+If have any question, create a new issue, or directly email me at moon_well@live.cn
