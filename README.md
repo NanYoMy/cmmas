@@ -15,15 +15,15 @@ This framework has been applied to liver and heart segmentation task:
 
 This is the diagram of the proposed cross-modality MAS framework:
 <!-- ![Framework](./img/framework.png "Framework") --> 
-<img src="./img/framework.png" alt="" width="60%"  align="middle"  />
+<img src="./img/framework.png" alt="" width="100%"  align="middle"  />
 
 This is an example of the output of the registration network:
 <!-- ![Model output](./img/reg.png "Model output") -->
-<img src="./img/reg.png" alt="" width="60%"  align="middle" />
+<img src="./img/reg.png" alt="" width="100%"  align="middle" />
 
 This is an example of the output of the label fusion:
 <!-- ![Model output](./img/mas.png "Model output")-->
-<img src="./img/MAS.png" alt="" width="60%"  align="middle" />
+<img src="./img/MAS.png" alt="" width="100%"  align="middle" />
 
 ## Overview
 This repository contains two main code:
