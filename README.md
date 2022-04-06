@@ -8,7 +8,7 @@ The cross-modality MAS method was first published on MICCAI2020, and the source 
 
 
 # Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion
-This repository contains the code for the paper "Cross-Modality Multi-Atlas Segmentationvia Deep Registration and Label Fusion", which proposes multi-atlas segmentation framework based on deep neural network from cross-modality medical images. The project is still under constructing. At present, we have released the core codes.   
+This repository contains the code for the paper "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion", which proposes multi-atlas segmentation framework based on deep neural network from cross-modality medical images. The project is still under constructing. At present, we have released the core codes.   
 
 This framework has been applied to liver and heart segmentation task:
 [CHAOS](https://chaos.grand-challenge.org/) & [MMWHS](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs17/index.html).
