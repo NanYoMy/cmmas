@@ -33,6 +33,7 @@ This repository contains two main code:
 ## Acknowledgement
 This project is largely based on the "labreg", "simpleitk", "antspy" repositories.
 ## Reference 
+`Ding, Wangbin, et al. "Cross-modality multi-atlas segmentation via deep registration and label fusion." IEEE JBHI. 2022.`
 
 ## Contact
 If have any question, create a new issue, or directly email me at moon_well@live.cn
